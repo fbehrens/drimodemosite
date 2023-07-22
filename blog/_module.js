@@ -4483,7 +4483,7 @@ function create_fragment$5(ctx) {
 					{
 						"date": "June 3, 2023",
 						"link": {
-							"url": "https://primosites.vercel.app/blog-entry",
+							"url": "article",
 							"label": "Mastering the art of responsive design: a comprehensive guide"
 						},
 						"thumbnail": {
@@ -4500,7 +4500,7 @@ function create_fragment$5(ctx) {
 					{
 						"date": "August 12, 2023",
 						"link": {
-							"url": "/blog-entry",
+							"url": "second-article",
 							"label": "10 essential tools every web developer should know"
 						},
 						"thumbnail": {
