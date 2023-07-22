@@ -4483,7 +4483,7 @@ function create_fragment$5(ctx) {
 					{
 						"date": "June 3, 2023",
 						"link": {
-							"url": "article",
+							"url": "/article",
 							"label": "Mastering the art of responsive design: a comprehensive guide"
 						},
 						"thumbnail": {
@@ -4500,7 +4500,7 @@ function create_fragment$5(ctx) {
 					{
 						"date": "August 12, 2023",
 						"link": {
-							"url": "second-article",
+							"url": "/second-article",
 							"label": "10 essential tools every web developer should know"
 						},
 						"thumbnail": {
